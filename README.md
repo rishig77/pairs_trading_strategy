@@ -1,4 +1,4 @@
-#Pairs_Trading_Strategy
+# Pairs_Trading_Strategy
 
 **Project Title:** Pairs Trading with Coca-Cola and PepsiCo Stocks in Python
 
